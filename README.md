@@ -1,7 +1,7 @@
 # Guias-do-protocolo
 
-Guias de aplicação do protocolo de mapeamento sistemático para busca de aplicações em repositórios não-acadêmicos.
+Guias de aplicação do protocolo de mapeamento sistemático para busca de aplicativos de saúde em repositórios não-acadêmicos de aplicativos e código-fonte.
 
-Perfis de usuário:
-  - Saúde
-  - Desenvolvedor
+Perfis:
+  - Profissional da saúde
+  - Desenvolvedor de software
